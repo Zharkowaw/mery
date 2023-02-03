@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mery", "mery\mery.csproj", "{9433C3F7-1699-45A0-8783-766618028754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9433C3F7-1699-45A0-8783-766618028754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9433C3F7-1699-45A0-8783-766618028754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9433C3F7-1699-45A0-8783-766618028754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9433C3F7-1699-45A0-8783-766618028754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69184BC-F649-45D3-9020-6E81A67FE556}
+	EndGlobalSection
+EndGlobal
