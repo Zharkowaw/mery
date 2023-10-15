@@ -1,3 +1,0 @@
-﻿using ConsoleApp;
-
-User 
